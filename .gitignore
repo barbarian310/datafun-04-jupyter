@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Visual Studio Code settings and workspace
+.vscode/
+
+# Python Jupyter Notebook checkpoints and runtime files
+.ipynb_checkpoints/
+*.ipynb_meta/
